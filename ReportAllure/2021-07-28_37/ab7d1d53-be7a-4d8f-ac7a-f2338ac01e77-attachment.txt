@@ -1,0 +1,3 @@
+200
+{'name': 'Shashwata', 'job': 'Mendator', 'updatedAt': '2021-07-28T07:09:52.004Z'}
+Fatch name from API: Shashwata
